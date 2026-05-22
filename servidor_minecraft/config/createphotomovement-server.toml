@@ -1,0 +1,10 @@
+#.
+#Speed of the Solar Generator in RPM
+# Default: 16
+# Range: > 1
+generationSpeed = 16
+#.
+#Stress Capacity of the Solar Generator in SU per RPM
+# Default: 16
+# Range: > 1
+stressCapacity = 16
